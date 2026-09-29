@@ -1,0 +1,101 @@
+﻿Code;Person;Object;Action;Instrument;Category;Picture
+00;Arnold Schwarzenegger;dumbbell;lifting;;showbusiness;C:\Downloads\Project_PAO\pictures\00.png
+01;Pamela Anderson;running;with rescue buoy;;showbusiness;C:\Downloads\Project_PAO\pictures\01.png
+02;Marylin Monroe;diamond;blowing a kiss;;showbusiness;C:\Downloads\Project_PAO\pictures\02.png
+03;Clint Eastwood;revolver;drawing;;showbusiness;C:\Downloads\Project_PAO\pictures\03.png
+04;Artur Rubinstein;piano keys;tapping;;showbusiness;C:\Downloads\Project_PAO\pictures\04.png
+05;Bruce Willis;firehose;folding;;showbusiness;C:\Downloads\Project_PAO\pictures\05.png
+06;Tom Hanks;bench;sitting;;showbusiness;C:\Downloads\Project_PAO\pictures\06.png
+07;Kevin Costner;wolf;petting;;showbusiness;C:\Downloads\Project_PAO\pictures\07.png
+08;Monica Belluci;bedsheet;covering herself;;showbusiness;C:\Downloads\Project_PAO\pictures\08.png
+09;Bruce Lee;plank;karate kicking;;showbusiness;C:\Downloads\Project_PAO\pictures\09.png
+10;Wiliam Shakespeare;skull;talking to;;art;C:\Downloads\Project_PAO\pictures\10.png
+11;Ansel Adams;saguaro cactus;photographing;with camera;art;C:\Downloads\Project_PAO\pictures\11.png
+12;Claude Monet;water lily;painting;;art;C:\Downloads\Project_PAO\pictures\12.png
+13;Vincent van Gogh;sunflower;cutting;with razor;art;C:\Downloads\Project_PAO\pictures\13.png
+14;Nikolai Rimsky-Korsakov;bumblebee;conducting;with baton;art;C:\Downloads\Project_PAO\pictures\14.png
+15;Leonardo da Vinci;Vitruvian Man;measuring;with divider;art;C:\Downloads\Project_PAO\pictures\15.png
+16;Alfred Hitchcock;crow;framing;;art;C:\Downloads\Project_PAO\pictures\16.png
+17;Lewis Carroll;rabbit;chasing;;art;C:\Downloads\Project_PAO\pictures\17.png
+18;Michelangelo Buonarroti;sculpture;chiseling;with chisel;art;C:\Downloads\Project_PAO\pictures\18.png
+19;Stan Lee;comic;inking;with pen;art;C:\Downloads\Project_PAO\pictures\19.png
+20;Sisyphus;boulder;pushing;;myths;C:\Downloads\Project_PAO\pictures\20.png
+21;Dionisos;grapes;stomping;;myths;C:\Downloads\Project_PAO\pictures\21.png
+22;Medusa;mirror;slapping;;myths;C:\Downloads\Project_PAO\pictures\22.png
+23;Gilgamesh;lion;wrestling;;myths;C:\Downloads\Project_PAO\pictures\23.png
+24;Robin Hood;arrow;shooting;with bow;myths;C:\Downloads\Project_PAO\pictures\24.png
+25;Vishnu;conch shell;juggling;;myths;C:\Downloads\Project_PAO\pictures\25.png
+26;Hercules;club;leaning on;;myths;C:\Downloads\Project_PAO\pictures\26.png
+27;Icarus;sun;reaching for;;myths;C:\Downloads\Project_PAO\pictures\27.png
+28;Poseidon;fish;stabbing;with trident;myths;C:\Downloads\Project_PAO\pictures\28.png
+29;Lancelot;Holy Grail;kneeling before;;myths;C:\Downloads\Project_PAO\pictures\29.png
+30;Shrek;onion;peeling;;graphics;C:\Downloads\Project_PAO\pictures\30.png
+31;Alladin;magic lamp;rubbing;;graphics;C:\Downloads\Project_PAO\pictures\31.png
+32;Moomin;cloud;bouncing off;;graphics;C:\Downloads\Project_PAO\pictures\32.png
+33;Fred Flinstone;steak;seasoning;with dispenser;graphics;C:\Downloads\Project_PAO\pictures\33.png
+34;Rapunzel;dandelion;blowing;;graphics;C:\Downloads\Project_PAO\pictures\34.png
+35;Woody Woodpecker;log;pecking;;graphics;C:\Downloads\Project_PAO\pictures\35.png
+36;Hiccup;dragon;feeding;;graphics;C:\Downloads\Project_PAO\pictures\36.png
+37;Kermit;banjo;playing;;graphics;C:\Downloads\Project_PAO\pictures\37.png
+38;Pinokio;coin;watering;with watering can;graphics;C:\Downloads\Project_PAO\pictures\38.png
+39;Jerry;cheese;biting;;graphics;C:\Downloads\Project_PAO\pictures\39.png
+40;Erwin Schroedringer;cat;pulling out;of a box;research;C:\Downloads\Project_PAO\pictures\40.png
+41;Virginia Apgar;baby;auscultating;with stetoscope;research;C:\Downloads\Project_PAO\pictures\41.png
+42;Isaac Newton;apple;dropping;;research;C:\Downloads\Project_PAO\pictures\42.png
+43;Albert Einstein;clock;thinkng;;research;C:\Downloads\Project_PAO\pictures\43.png
+44;Willhelm Reontgen;X-ray image of a hand;backlighting;;research;C:\Downloads\Project_PAO\pictures\44.png
+45;James Watson;DNA model;twisting;;research;C:\Downloads\Project_PAO\pictures\45.png
+46;Thor Heyerdahl;raft;rowing;with paddle;research;C:\Downloads\Project_PAO\pictures\46.png
+47;Nicolaus Copernicus;globe;spinning on fingertip;;research;C:\Downloads\Project_PAO\pictures\47.png
+48;Christiaan Barnard;heart;stitching;with needle;research;C:\Downloads\Project_PAO\pictures\48.png
+49;Carl Linnaeus;fern;sorting;;research;C:\Downloads\Project_PAO\pictures\49.png
+50;Saruman;palantir;staring into;;unreal;C:\Downloads\Project_PAO\pictures\50.png
+51;Dobby;sock;hugging;;unreal;C:\Downloads\Project_PAO\pictures\51.png
+52;Neo;bullet;stopping with hand;;unreal;C:\Downloads\Project_PAO\pictures\52.png
+53;Frodo Baggins ;ring;wearing;on necklace;unreal;C:\Downloads\Project_PAO\pictures\53.png
+54;R2D2;unfinished Death Star;projecting;as a hologram;unreal;C:\Downloads\Project_PAO\pictures\54.png
+55;Venom ;brain;licking;;unreal;C:\Downloads\Project_PAO\pictures\55.png
+56;Hulk;bricks;smashing;;unreal;C:\Downloads\Project_PAO\pictures\56.png
+57;Catwoman;safe;scratching;;unreal;C:\Downloads\Project_PAO\pictures\57.png
+58;Batman;batarang;throwing;;unreal;C:\Downloads\Project_PAO\pictures\58.png
+59;Yoda;lightsaber;force-lifting;;unreal;C:\Downloads\Project_PAO\pictures\59.png
+60;Socrates;vial with poison;drinking;;history;C:\Downloads\Project_PAO\pictures\60.png
+61;Magaret Thatcher;handbag;swinging;;history;C:\Downloads\Project_PAO\pictures\61.png
+62;Nelson Mandela;chains;dragging;;history;C:\Downloads\Project_PAO\pictures\62.png
+63;Guy Fawkes;gunpowder barrel;lighting;the fuse;history;C:\Downloads\Project_PAO\pictures\63.png
+64;Thedore Roosvelt;bear;hunting;with shotgun;history;C:\Downloads\Project_PAO\pictures\64.png
+65;George Washington;scroll of U.S. constitution;signing;with quill;history;C:\Downloads\Project_PAO\pictures\65.png
+66;Adolf Hitler;microphone;shouting into;;history;C:\Downloads\Project_PAO\pictures\66.png
+67;Juliusz Ceasar;dice;tossing;;history;C:\Downloads\Project_PAO\pictures\67.png
+68;Napoleon Bonaparte;horse;riding;;history;C:\Downloads\Project_PAO\pictures\68.png
+69;Wladyslaw Jagiello;sword;winding up;;history;C:\Downloads\Project_PAO\pictures\69.png
+70;Levi Strauss;jeans;ironing;with iron;inventors;C:\Downloads\Project_PAO\pictures\70.png
+71;Nikola Tesla;ball of sparks;squezzing;;inventors;C:\Downloads\Project_PAO\pictures\71.png
+72;Elon Musk;rocket;launching;;inventors;C:\Downloads\Project_PAO\pictures\72.png
+73;Thomas Edison;Edison light bulb;plugging in;;inventors;C:\Downloads\Project_PAO\pictures\73.png
+74;John Rockefeller;banknotes;counting;;inventors;C:\Downloads\Project_PAO\pictures\74.png
+75;Steve Wozniak;DIP IC;soldering;with soldering iron;inventors;C:\Downloads\Project_PAO\pictures\75.png
+76;Soichiro Honda;motocycle;repairing;with wrench;inventors;C:\Downloads\Project_PAO\pictures\76.png
+77;Josephine Cochrane;plate;washing;;inventors;C:\Downloads\Project_PAO\pictures\77.png
+78;Stefan Banach;scottish notebook;tucking under the arm;;inventors;C:\Downloads\Project_PAO\pictures\78.png
+79;Steve Jobs;iPhone;presenting;;inventors;C:\Downloads\Project_PAO\pictures\79.png
+80;Michael Schumacher;red F1 car;driving;;players;C:\Downloads\Project_PAO\pictures\80.png
+81;Mike Tyson;punching bag;punching;;players;C:\Downloads\Project_PAO\pictures\81.png
+82;Diego Maradona;football;inflating;with pump;players;C:\Downloads\Project_PAO\pictures\82.png
+83;Wayne Gretzky;puck;sliding;with hokey stick;players;C:\Downloads\Project_PAO\pictures\83.png
+84;Sha'Carri Richardson;relay baton;passing;;players;C:\Downloads\Project_PAO\pictures\84.png
+85;Serena Williams;tennis ball;serving;with tennis rocket;players;C:\Downloads\Project_PAO\pictures\85.png
+86;Tony Hawk;skateboard;bending;;players;C:\Downloads\Project_PAO\pictures\86.png
+87;Nadia Comăneci;balance beam;doing a handstand on;;players;C:\Downloads\Project_PAO\pictures\87.png
+88;Michael Phelps;bunch of gold medals;splashing water on;;players;C:\Downloads\Project_PAO\pictures\88.png
+89;Carl Lewis;podium;jumping over;;players;C:\Downloads\Project_PAO\pictures\89.png
+90;Jack Sparrow;bottle of rum;kissing;;literature;C:\Downloads\Project_PAO\pictures\90.png
+91;John Dolittle;duck;bandaging;with bandage;literature;C:\Downloads\Project_PAO\pictures\91.png
+92;Baron Muenhaussen;cannonball;flying on;;literature;C:\Downloads\Project_PAO\pictures\92.png
+93;Holly Gollightly;cigarette;smoking;with holder;literature;C:\Downloads\Project_PAO\pictures\93.png
+94;John Rambo;survival knife;crawling;with object in his teeth;literature;C:\Downloads\Project_PAO\pictures\94.png
+95;Walter White;blue crystals;cooking;;literature;C:\Downloads\Project_PAO\pictures\95.png
+96;Sherlock Holmes;footprint;examining ;with magnifying glass;literature;C:\Downloads\Project_PAO\pictures\96.png
+97;Lara Croft;idol;excavating;with geologist's hammer;literature;C:\Downloads\Project_PAO\pictures\97.png
+98;James Bond;martini glass;shaking by hand;;literature;C:\Downloads\Project_PAO\pictures\98.png
+99;Indiana Jones;snake;whipping;with whiplash;literature;C:\Downloads\Project_PAO\pictures\99.png
