@@ -1,0 +1,7 @@
+Generate a square PAO mnemonic image representing: 
+
+PERSON: [person] 
+ACTION: [action]
+OBJECT: [object]
+
+Primary goal: maximum immediate readability of Person ACTION Object. Make Person, Action and Object visually dominant and immediately recognizable. Show the Action at its most diagnostically recognizable instant, using an emphasized but natural gesture, pose, motion or contact. The interaction must be explicit: the image should clearly communicate Person ACTION Object, not merely show Person and Object together. Preserve Person identity. For real people, prioritize accurate facial identity and apparent age; use reference images faithfully when provided. Preserve characteristic costume or attributes when important for recognition. Keep the Object clearly visible, recognizable and actively involved in the Action. Compress real-world scale when necessary for mnemonic readability: Person and Object should both have substantial visual weight while preserving only broad relative size differences. Use controlled photographic realism for real-world Persons: natural anatomy, plausible physics and lighting, moderate detail, no caricatural distortion and no unnecessary cinematic spectacle. Compose according to the natural geometry of this specific PAO. Do not default to centered subjects, symmetry, hero shots, direct eye contact, three-quarter views or generic standing poses. Minimize unrelated people, animals, props, tools, foreground clutter, decorative elements and special effects. Every prominent element must serve P, A or O.
