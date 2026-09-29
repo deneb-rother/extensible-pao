@@ -16,19 +16,19 @@ To address all of the above needs (plus a few others...), I tried to build a mor
 
 The architectural details of the systems are presented here:
 
-[Universal_Letter-Based_Major_System.md]  
-[Extensible_PAO_System.md]
+- [Universal Letter-Based Major System](Universal_Letter-Based_Major_System.md)
+- [Extensible PAO System](Extensible_PAO_System.md)
 
 ## Images
 
 While LLM image generation is an extremely useful tool for building a decent PAO set, I am not sharing the ready-made PAO set in order to avoid potential licensing issues and the use of people's likenesses without permission. Instead, I provide the raw descriptions of the P-A-O characteristics, constructed according to the previously defined rules.
 
-[data/PAO_data.en.csv]
+- [PAO Data (en}](data/PAO_data.en.csv)
 
 To facilitate image generation, I am also sharing the prompt and the visual "grammar" that defines the rules for obtaining consistent output from an LLM:
 
-[PAO_Scene_Generation_Prompt.md]  
-[PAO_Visual_Grammar.md]
+- [PAO Scene Generation Prompt](PAO_Scene_Generation_Prompt.md)
+- [PAO Visual Grammar](PAO_Visual_Grammar.md)
 
 
 ## PAO Card Generator
@@ -41,7 +41,7 @@ Code;Person;Object;Action;Instrument;Category;Picture
 ```
 
 The source file can be downloaded from here:
-[generators/PAO_generator_v.1.0.af]
+-[PAO Generator v.1.0](generators/PAO_generator_v.1.0.af)
 
 
 
@@ -50,12 +50,12 @@ The source file can be downloaded from here:
 Additional supporting materials include:
 
 - infographics for memorization and PAO set construction:
-  - [infographics/en/ULMS_en.png]
-  - [infographics/en/PAO_en.png]
+  - [Universal Language-Based Major System](infographics/en/ULMS_en.png)
+  - [Extensible PAO](infographics/en/PAO_en.png)
 - a manual explaining how to use the PAO system:
-  - [infographics/en/PAO_manual_en.pdf]
+  - [PAO Manual](infographics/en/PAO_manual_en.pdf)
 - the PAO source file in XLS format:
-  - [data/PAO_v.2.5.xls]
+  - [PAO Data XLS](data/PAO_v.2.5.xls)
 
 ## Licensing
 
