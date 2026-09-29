@@ -1,5 +1,23 @@
 # Universal Letter-Based Major and Extensible PAO Systems
 
+[![Release](https://img.shields.io/github/v/release/deneb-rother/ExtensiblePAO)](https://github.com/deneb-rother/ExtensiblePAO/releases)
+![Release date](https://img.shields.io/github/release-date/deneb-rother/ExtensiblePAO)
+![Last commit](https://img.shields.io/github/last-commit/deneb-rother/ExtensiblePAO)
+![Repo size](https://img.shields.io/github/repo-size/deneb-rother/ExtensiblePAO)
+
+[![Downloads](https://img.shields.io/github/downloads/deneb-rother/ExtensiblePAO/total)](https://github.com/deneb-rother/ExtensiblePAO/releases)
+![Issues](https://img.shields.io/github/issues/deneb-rother/ExtensiblePAO)
+![Contributors](https://img.shields.io/github/contributors/deneb-rother/ExtensiblePAO)
+![Stars](https://img.shields.io/github/stars/deneb-rother/ExtensiblePAO)
+![Forks](https://img.shields.io/github/forks/deneb-rother/ExtensiblePAO)
+
+![Top language](https://img.shields.io/github/languages/top/deneb-rother/ExtensiblePAO)
+![Languages](https://img.shields.io/github/languages/count/deneb-rother/ExtensiblePAO)
+
+[![Code License](https://img.shields.io/badge/code-MIT-blue)](https://github.com/deneb-rother/ExtensiblePAO/LICENSE)
+[![Content License](https://img.shields.io/badge/dataset-CC_BY--SA_4.0-green)](https://github.com/deneb-rother/ExtensiblePAO/LICENSE-CC)
+
+
 ## Background
 
 When I tried to learn the PAO memorization technique, I quickly identified three problems:
