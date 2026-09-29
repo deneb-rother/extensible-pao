@@ -1,0 +1,23 @@
+# Built Visual Studio Code Extensions
+*.vsix
+*.code-workspace
+
+# VSCode settings and tasks
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Private project data
+.proj/*
+pictures/*
+scripts/local.config.json
+
+# Project dependencies
+node_modules/*
+
